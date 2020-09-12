@@ -23,7 +23,7 @@
   "dependencies": {
     "debug": "^2.0.0",
     "fumble": "^0.1.0",
-    "lodash": "^3.3.0",
+    "lodash": "^4.17.20",
     "xhr": "^2.0.0"
   },
   "devDependencies": {
